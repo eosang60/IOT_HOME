@@ -1,0 +1,11 @@
+{
+   "ssid": "iPhone (76)",
+   "w_pw": "djgudwls",
+   "meta": {
+      "influxdb_url": "http://172.20.10.2:8086",
+      "influxdb_token": "7u65tuouGE6xBkac0dt9rLjdMCqVJU6-P3wvHiiUzIkvWB4e_kfvDqyC2H-28k3YLJoVxfM4P4Tqh2E29VYNPw==",
+      "influxdb_bucket": "bucket01",
+      "report_interval": "1000"
+   },
+   "config": "done"
+}
