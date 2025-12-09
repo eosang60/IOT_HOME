@@ -110,11 +110,10 @@ python server.py
 ---
 
 ## 7. 폴더 구조
-IOT_SMART_HOME/
-.
-├── IOT_HOME.mp4          # 프로젝트 시연 영상
-├── README.md             # 프로젝트 설명서
-├── server.py             # 메인 서버 소스코드 (Python)
-├── otp_liliygo/          # [인증 노드] OTP 및 QR 생성 (LilyGo)
-├── esp32/                # [제어 노드] 가전 제어 및 환경 감지 (ESP32)
-└── SECURITY_LILYGO/      # [센서 노드] 인원 감지 및 보안 시스템 (LilyGo)
+-IOT_SMART_HOME/
+-├── IOT_HOME.mp4          # 프로젝트 시연 영상
+-├── README.md             # 프로젝트 설명서
+-├── server.py             # 메인 서버 소스코드 (Python)
+-├── otp_liliygo/          # [인증 노드] OTP 및 QR 생성 (LilyGo)
+-├── esp32/                # [제어 노드] 가전 제어 및 환경 감지 (ESP32)
+-└── SECURITY_LILYGO/      # [센서 노드] 인원 감지 및 보안 시스템 (LilyGo)
